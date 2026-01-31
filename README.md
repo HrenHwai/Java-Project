@@ -47,7 +47,7 @@ overflow and underflow.
 - 'Picture' data type (Princeton Java Standard Library)
 - 'Color' data type ('java.awt.Color')
 
-## Punlic API 
+## Public API 
 - 'identity (Picture picture)'
 - 'gaussian (Picture picture)'
 - 'sharpen (Picture picture)'
