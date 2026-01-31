@@ -36,7 +36,7 @@ Modulo arithmetic is used:
 - pixels at the image edges wrap around to the opposite side 
 - this ensures that every kernel access refers to a valid
 
-## Numerical handling : 
+## Numerical handling 
 Rounding : Fractional RGB values are rounded up to nearest integer 
 Clamping : RGB values are constrained to the range [0, 255] to prevent 
 overflow and underflow. 
