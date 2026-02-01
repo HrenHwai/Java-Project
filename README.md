@@ -48,12 +48,12 @@ overflow and underflow.
 - 'Color' data type ('java.awt.Color')
 
 ## Public API 
-- 'identity (Picture picture)'
-- 'gaussian (Picture picture)'
-- 'sharpen (Picture picture)'
-- 'lapacian (Picture picture)'
-- 'emboss (Picuture picture)'
-- 'motionBlur (Picture picuture)'
+- identity (Picture picture)
+- gaussian (Picture picture)
+- sharpen (Picture picture)
+- lapacian (Picture picture)
+- emboss (Picuture picture)
+- motionBlur (Picture picuture)
 
 each method returns new image with the corresponding filter applied
 
